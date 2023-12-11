@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm a fishie in the oshie
 
-I'm Aaron, a full-stack engineer for the past 18 years. I mostly work with **Python**, **JavaScript**, **GCP**, and **React**, and I am currently learning myself some **Kubernetes** to host my services.
+I'm Aaron, developing for 17 years and a full-stack engineer for the past 4 years. I mostly work with **Python**, **JavaScript**, **AWS**, and **Angular**m, with some experience in **React** and **GCP**.
 
 * I worked on a crypto exchange as its primary developer.
 * I worked on a blockchain-based Bloomberg terminal as its VP of Security
